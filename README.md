@@ -53,7 +53,7 @@ Four interrelated tables were constructed to reflect realistic insurance operati
 
 Conducted a full data quality audit across all four tables followed by cross-table reconciliation to confirm referential integrity. This mirrors standard validation practices required before any BAU reporting cycle.
 
-<img width="975" height="719" alt="image" src="https://github.com/user-attachments/assets/66c69e54-2fb0-4996-9745-0d42a31ca8d8" />
+![Data Quality & Reconciliation](Data%20Quality%20%26%20Reconciliation.png)
 
 
 **Findings:**
@@ -68,7 +68,7 @@ Conducted a full data quality audit across all four tables followed by cross-tab
 
 Analyzed 10,000 claims records across six Canadian provinces to produce recurring operational reporting aligned with BAU requirements.
 
-<img width="975" height="981" alt="image" src="https://github.com/user-attachments/assets/1e240ed0-7457-482a-8b34-350bd5cdf294" />
+![Claims Analysis](Claims%20Analysis.png)
 
 
 **Claims by Region**
@@ -89,8 +89,7 @@ Status distribution across Open, In Review, Approved, Denied, and Closed stages 
 
 Analyzed a portfolio of 10,000 insurance policies across six provinces and six policy types to produce recurring portfolio performance reporting.
 
-<img width="975" height="1026" alt="image" src="https://github.com/user-attachments/assets/e128ccca-8205-4980-86e6-9e746ef97151" />
-
+![Policy Portfolio Analysis](Policy%20Portfolio%20Analysis.png)
 
 **Key Metrics:**
 - Total Portfolio Premium: $42,442,196
@@ -112,7 +111,7 @@ Home and Commercial policies generate the highest total premiums. Average premiu
 
 Analyzed 10,000 support requests across six request types to produce operational visibility into request volume, resolution performance, and escalation risk.
 
-<img width="915" height="1190" alt="image" src="https://github.com/user-attachments/assets/752602a6-0ed5-4fe2-8a34-babb561de25d" />
+![Support Request Analysis](support%20request%20analysis.png)
 
 
 **Key Metrics:**
@@ -134,7 +133,7 @@ Ad-hoc Analysis and Dashboard Update requests represent the highest volume categ
 
 Developed a six-panel operational dashboard translating raw insurance data into visual reporting ready for leadership review and BAU reporting cycles.
 
-<img width="975" height="1087" alt="image" src="https://github.com/user-attachments/assets/1b160437-edfb-4db7-bfed-4424e9c0d45a" />
+![Operational Dashboard](operational_dashboard.png)
 
 
 **Dashboard Panels:**
@@ -157,9 +156,9 @@ Developed a six-panel operational dashboard translating raw insurance data into 
 
 Synthesized findings across 40,000 records into a structured executive summary covering portfolio health, claims exposure, support operations, and data quality — mirroring the format of a real BAU reporting deliverable.
 
-<img width="809" height="1246" alt="image" src="https://github.com/user-attachments/assets/3ad0a103-fb96-4949-92a7-db6451234ea0" />
+![Executive Summary](Executive%20Summary-1.png)
 
-<img width="776" height="1259" alt="image" src="https://github.com/user-attachments/assets/ca954a34-40f5-4e4a-bf44-8f12c7eaab0e" />
+![Key Findings](Executive%20Summary-Key%20Findings.png)
 
 
 **Five Risk Flags Identified:**
